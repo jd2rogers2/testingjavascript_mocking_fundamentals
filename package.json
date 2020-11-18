@@ -1,0 +1,19 @@
+{
+  "name": "testingjavascript_mocking_fundamentals",
+  "version": "1.0.0",
+  "description": "https://github.com/jd2rogers2/testingjavascript_mocking_fundamentals.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jd2rogers2/testingjavascript_mocking_fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jd2rogers2/testingjavascript_mocking_fundamentals/issues"
+  },
+  "homepage": "https://github.com/jd2rogers2/testingjavascript_mocking_fundamentals#readme"
+}
